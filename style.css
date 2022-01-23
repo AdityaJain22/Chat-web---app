@@ -1,0 +1,14 @@
+#div1
+{
+    background: url(background.jpg);
+    background-position: center;
+    display: inline-block;
+}
+#he1
+{
+    color: white;
+}
+#background
+{
+    background-color: aqua;
+}
